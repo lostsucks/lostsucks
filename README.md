@@ -1,14 +1,10 @@
 <h1 align="center">Hey! 👋, I'm lost</h1>
-<h3 align="center">A upcoming developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lostsucks" alt="lostsucks" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/lostdoesntsuck" target="blank"><img src="https://img.shields.io/twitter/follow/lostdoesntsuck?logo=twitter&style=for-the-badge" alt="lostdoesntsuck" /></a> </p>
-- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **lostmatterlmao@gmail.com \\ lostsucks on DC**
-
-- ⚡ Fun fact **I actually shower!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
