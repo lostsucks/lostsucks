@@ -5,7 +5,9 @@
 
 <hr />
 
-Hey! I'm [lostsucks](https://github.com/lostsucks), I specialize in Java & a few other languages. I hope one day to make it in this world!
+<div align="center">
+	Hey! I'm [lostsucks](https://github.com/lostsucks), I specialize in Java & a few other languages. I hope one day to make it in this world!
+</div>
 
 <div align="center">
 	<br />
