@@ -13,12 +13,12 @@ Hey! I'm [lostsucks](https://github.com/lostsucks), I specialize in Java & know 
 	I make minecraft servers, you play the minecraft servers.
 	<h3>My Previous Experiences</h3>
 	<ol>
-		<p>[FarmForge](https://discord.gg/dqaJMeksvY) • Owner</p>
-		<p>[ZenithMC](https://discord.gg/3yD27se27j) • Owner</p>
+		<p>FarmForge • Owner</p>
+		<p>ZenithMC • Owner</p>
 		<p>The World of Eletria • Co-Owner</p>
-		<p>[Netoria](https://discord.gg/ZEdkPmad3w) • Lead Developer</p>
-		<p>[TazPvP](https://github.com/tazpvp/Tazpvp) • Developer</p>
-		<p>[LightSkies](https://discord.gg/88FMSXUvne) • Helper</p>
+		<p>Netoria • Lead Developer</p>
+		<p>TazPvP • Developer</p>
+		<p>LightSkies • Helper</p>
 	</ol>
 </div>
 
