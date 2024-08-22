@@ -9,18 +9,16 @@ Hey! I'm [lostsucks](https://github.com/lostsucks), I specialize in Java & know 
 
 <br />
 
-<div align="center">
-	I make minecraft servers, you play the minecraft servers.
-	<h3>My Previous Experiences</h3>
-	<ol>
-		<p>FarmForge • Owner</p>
-		<p>ZenithMC • Owner</p>
-		<p>The World of Eletria • Co-Owner</p>
-		<p>Netoria • Lead Developer</p>
-		<p>TazPvP • Developer</p>
-		<p>LightSkies • Helper</p>
-	</ol>
-</div>
+I make minecraft servers, you play the minecraft servers.
+<h3>My Previous Experiences</h3>
+<ol>
+	<p>FarmForge • Owner</p>
+	<p>ZenithMC • Owner</p>
+	<p>The World of Eletria • Co-Owner</p>
+	<p>Netoria • Lead Developer</p>
+	<p>TazPvP • Developer</p>
+	<p>LightSkies • Helper</p>
+</ol>
 
 <div align="center">
 	<br />
