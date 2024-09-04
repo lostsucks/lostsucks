@@ -20,6 +20,8 @@ I make minecraft servers, you play the minecraft servers.
 	<p>LightSkies • Helper</p>
 </ol>
 
+<h6> <i>i privated a lot of my repos so my score is low 😔</i> </h6>
+
 <div align="center">
 	<br />
 	<img src="https://github-readme-stats.vercel.app/api?username=lostsucks&theme=tokyonight">
