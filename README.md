@@ -6,5 +6,5 @@
 <hr />
 
 <div align="center">
-	Hey! I'm [lostsucks](https://github.com/lostsucks), I specialize in Java & know a few other languages.
+	Hey! I'm **lostsucks**, I specialize in Java & know a few other languages.
 </div>
