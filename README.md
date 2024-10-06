@@ -5,23 +5,5 @@
 
 <hr />
 
-Hey! I'm [lostsucks](https://github.com/lostsucks), I specialize in Java & know a few other languages. I hope one day to make it in this world!
+Hey! I'm [lostsucks](https://github.com/lostsucks), I specialize in Java & know a few other languages.
 
-<br />
-
-I make minecraft servers, you play the minecraft servers.
-<h3>My Previous Experiences</h3>
-<ol>
-	<p>Ocular • Owner</p>
-	<p>The World of Eletria • Co-Owner</p>
-	<p>Netoria • Lead Developer</p>
-	<p>TazPvP • Developer</p>
-	<p>LightSkies • Helper</p>
-</ol>
-
-<h6> <i>i privated a lot of my repos so my score is low 😔</i> </h6>
-
-<div align="center">
-	<br />
-	<img src="https://github-readme-stats.vercel.app/api?username=lostsucks&theme=tokyonight">
-</div>
