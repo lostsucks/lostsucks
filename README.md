@@ -5,5 +5,4 @@
 
 <hr />
 
-Hey! I'm [lostsucks](https://github.com/lostsucks), I specialize in Java & know a few other languages.
-
+<h5>Hey! I'm [lostsucks](https://github.com/lostsucks), I specialize in Java & know a few other languages.</h5>
