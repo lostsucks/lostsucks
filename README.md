@@ -8,3 +8,7 @@
 <div align="center">
 	Hey! I'm lostsucks, I specialize in Java & know a few other languages.
 </div>
+
+<div align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamptonix&show_icons=true&locale=en&layout=compact" alt="hamptonix" />
+</div>
