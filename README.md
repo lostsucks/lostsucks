@@ -10,7 +10,3 @@
 </div>
 
 <hr />
-
-<div align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lostsucks&show_icons=true&locale=en&layout=compact" alt="hamptonix" />
-</div>
