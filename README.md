@@ -16,9 +16,9 @@
 - 🗡 **Netoria**: The largest non-lifesteal SMP on Minehut.
 - ⚛ **Other Notable Projects**: I've worked on various significant projects in the Minecraft community.
   
-	- [X] oneCast
-  	- [X] Void11
-  	- [X] Ocular (Discontinued)
+	- oneCast
+  	- Void11
+  	- Ocular (Discontinued)
 
 ### Skills
 - Java
