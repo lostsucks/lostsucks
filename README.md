@@ -7,7 +7,7 @@
 
 <div align="center">
 	<h3>hi there, im lost</h3>
-	<h5>I am a 15-year-old aspiring developer with a passion for coding and creating innovative projects.</h5>
+	<h6>I am a 15-year-old aspiring developer with a passion for coding and creating innovative projects.</h6>
 </div>
 
 
@@ -15,10 +15,6 @@
 - 🪓 **Foraging**: A Minecraft server focused on ranking up your axe and mining more dense trees.
 - 🗡 **Netoria**: The largest non-lifesteal SMP on Minehut.
 - ⚛ **Other Notable Projects**: I've worked on various significant projects in the Minecraft community.
-  
-	- oneCast
-  	- Void11
-  	- Ocular (Discontinued)
 
 ### Skills
 - Java
