@@ -6,7 +6,7 @@
 <hr />
 
 <div align="center">
-	hi there, im lost
+	<h3>hi there, im lost</h3>
 </div>
 
 I am a 15-year-old aspiring developer with a passion for coding and creating innovative projects.
