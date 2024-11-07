@@ -5,8 +5,23 @@
 
 <hr />
 
-<div align="center">
-	Hey! I'm lostsucks, I specialize in Java & know a few other languages.
-</div>
+## Hi there, I'm lostsucks 👋
+
+I am a 15-year-old aspiring developer with a passion for coding and creating innovative projects. My expertise includes Java, Skript, JavaScript, and other programming languages.
+
+### Projects
+- **Foraging**: A Minecraft server focused on ranking up your axe and mining more dense trees.
+- **Netoria**: The largest non-lifesteal SMP on Minehut.
+- **Other Large Projects**: I've worked on various significant projects in the Minecraft community.
+
+### Skills
+- Java
+- Skript
+- C
+- HTML/CSS/JS
+- And more...
+
+### Contact
+Feel free to reach out to me on Discord: `lostsucks`
 
 <hr />
