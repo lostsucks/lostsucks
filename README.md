@@ -7,9 +7,9 @@
 
 <div align="center">
 	<h3>hi there, im lost</h3>
+	<h5>I am a 15-year-old aspiring developer with a passion for coding and creating innovative projects.</h5>
 </div>
 
-I am a 15-year-old aspiring developer with a passion for coding and creating innovative projects.
 
 ### Projects
 - 🪓 **Foraging**: A Minecraft server focused on ranking up your axe and mining more dense trees.
