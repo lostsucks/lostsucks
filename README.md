@@ -14,7 +14,10 @@
 ### Projects
 - 🪓 **Foraging**: A Minecraft server focused on ranking up your axe and mining more dense trees.
 - 🗡 **Netoria**: The largest non-lifesteal SMP on Minehut.
-- ⚛ **Other Large Projects**: I've worked on various significant projects in the Minecraft community.
+- ⚛ **Other Notable Projects**: I've worked on various significant projects in the Minecraft community.
+	[X] oneCast
+  	[X] Void11
+  	[X] Ocular (Discontinued)
 
 ### Skills
 - Java
