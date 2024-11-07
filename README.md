@@ -5,14 +5,16 @@
 
 <hr />
 
-## Hi there, I'm lostsucks 👋
+<div align="center">
+	hi there, im lost
+</div>
 
-I am a 15-year-old aspiring developer with a passion for coding and creating innovative projects. My expertise includes Java, Skript, JavaScript, and other programming languages.
+I am a 15-year-old aspiring developer with a passion for coding and creating innovative projects.
 
 ### Projects
-- **Foraging**: A Minecraft server focused on ranking up your axe and mining more dense trees.
-- **Netoria**: The largest non-lifesteal SMP on Minehut.
-- **Other Large Projects**: I've worked on various significant projects in the Minecraft community.
+- 🪓 **Foraging**: A Minecraft server focused on ranking up your axe and mining more dense trees.
+- 🗡 **Netoria**: The largest non-lifesteal SMP on Minehut.
+- ⚛ **Other Large Projects**: I've worked on various significant projects in the Minecraft community.
 
 ### Skills
 - Java
